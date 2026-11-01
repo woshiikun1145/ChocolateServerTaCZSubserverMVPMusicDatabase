@@ -1,0 +1,241 @@
+{
+  "format_version": 1,
+  "updated_at": "2026-11-01",
+  "server": "mc.zgwl.eu.org",
+  "musics": [
+    {
+      "music_name": "樱花糖",
+      "author": "Launk",
+      "path": {
+        "root": "/musics/cherry_candy/",
+        "music": "cherry_candy.mp3",
+        "icon": "icon.JPG",
+        "hash": {
+          "music": "2d6d0c1f",
+          "icon": "b3e5c49a"
+        }
+      }
+    },
+    {
+      "music_name": "Counter-Strike 2",
+      "author": "Valve Studio Orchestra",
+      "path": {
+        "root": "/musics/counter_strike/counter_strike_2/",
+        "music": "counter_strike_2.mp3",
+        "icon": "icon.JPG",
+        "hash": {
+          "music": "943d2b89",
+          "icon": "bd9fcad1"
+        }
+      }
+    },
+    {
+      "music_name": "常青",
+      "author": "PVRIS",
+      "path": {
+        "root": "/musics/counter_strike/deluge/evergreen/",
+        "music": "evergreen.mp3",
+        "icon": "icon.JPG",
+        "hash": {
+          "music": "d5108d30",
+          "icon": "a1bd4ad4"
+        }
+      }
+    },
+    {
+      "music_name": "冲击星*",
+      "author": "Knock2",
+      "path": {
+        "root": "/musics/counter_strike/initiators/dashstar/original/",
+        "music": "dashstar.MP3",
+        "icon": "icon.JPG",
+        "hash": {
+          "music": "32864b0d",
+          "icon": "5ad3e07b"
+        }
+      }
+    },
+    {
+      "music_name": "通宵达旦",
+      "author": "KILL SCRIPT",
+      "path": {
+        "root": "/musics/counter_strike/night_mode/all_night/",
+        "music": "all_night.mp3",
+        "icon": "IMG_2524.JPG",
+        "hash": {
+          "music": "8bfee8c8",
+          "icon": "cc88050d"
+        }
+      }
+    },
+    {
+      "music_name": "触摸能量",
+      "author": "DRYDEN",
+      "path": {
+        "root": "/musics/counter_strike/night_mode/feel_the_power/",
+        "music": "feel_the_power.mp3",
+        "icon": "icon.JPG",
+        "hash": {
+          "music": "bdd61c48",
+          "icon": "f6ea6ef3"
+        }
+      }
+    },
+    {
+      "music_name": "非人类",
+      "author": "ISOxo",
+      "path": {
+        "root": "/musics/counter_strike/night_mode/inhuman/",
+        "music": "inhuman.mp3",
+        "icon": "IMG_2527.JPG",
+        "hash": {
+          "music": "2a1ad38b",
+          "icon": "8edadc77"
+        }
+      }
+    },
+    {
+      "music_name": "理由",
+      "author": "Red Cat",
+      "path": {
+        "root": "/musics/counter_strike/night_mode/reason/",
+        "music": "reason.mp3",
+        "icon": "IMG_2525.JPG",
+        "hash": {
+          "music": "3c4ee7f5",
+          "icon": "7cac6302"
+        }
+      }
+    },
+    {
+      "music_name": "万众瞩目",
+      "author": "TWERL 和 Ekko & Sidetrack",
+      "path": {
+        "root": "/musics/counter_strike/night_mode/under_bright_lights/",
+        "music": "under_bright_lights.mp3",
+        "icon": "IMG_2526.JPG",
+        "hash": {
+          "music": "3fd4704d",
+          "icon": "2947d16a"
+        }
+      }
+    },
+    {
+      "music_name": "有为青年",
+      "author": "Blitz Kids",
+      "path": {
+        "root": "/musics/counter_strike/radicals/on_my_own/",
+        "music": "on_my_own.mp3",
+        "icon": "IMG_2528.JPG",
+        "hash": {
+          "music": "894a1ed6",
+          "icon": "2fbc2519"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（AT，冰冰冰版）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd. 和 Shikana鹿奈",
+      "path": {
+        "root": "/musics/phigros/icex3/at/",
+        "music": "at.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "c672c91f",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（EZ，冰冰冰版）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd. 和 Shikana鹿奈",
+      "path": {
+        "root": "/musics/phigros/icex3/ez/",
+        "music": "ez.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "ba80d39a",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（HD，冰冰冰版）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd. 和 Shikana鹿奈",
+      "path": {
+        "root": "/musics/phigros/icex3/hd/",
+        "music": "hd.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "d2706d20",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（IN，冰冰冰版）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd. 和 Shikana鹿奈",
+      "path": {
+        "root": "/musics/phigros/icex3/in/",
+        "music": "in.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "34cdbe91",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Re.Breath 重新呼吸",
+      "author": "Ci茜 和 洛天依",
+      "path": {
+        "root": "/musics/re.breath_重新呼吸/",
+        "music": "re.breath.mp3",
+        "icon": "icon.JPG",
+        "hash": {
+          "music": "77544b55",
+          "icon": "d6fba66c"
+        }
+      }
+    },
+    {
+      "music_name": "Valera",
+      "author": "阿佛洛狄忒、信号不良ovo 和 m0NESY",
+      "path": {
+        "root": "/musics/valera/m0NESY_ver/",
+        "music": "valera.mp3",
+        "icon": "IMG_2521.JPG",
+        "hash": {
+          "music": "904b2716",
+          "icon": "fc851cc9"
+        }
+      }
+    },
+    {
+      "music_name": "也许，是风吧。（冰冰冰版）",
+      "author": "Sakanaction 和 kono美琴哒",
+      "path": {
+        "root": "/musics/多分、風。/icex3/",
+        "music": "多分、風。.mp3",
+        "icon": "IMG_2531.JPG",
+        "hash": {
+          "music": "f1c1f17f",
+          "icon": "f57b7ff6"
+        }
+      }
+    },
+    {
+      "music_name": "也许，是风吧。",
+      "author": "Sakanaction",
+      "path": {
+        "root": "/musics/多分、風。/original/",
+        "music": "多分、風。.mp3",
+        "icon": "IMG_2531.JPG",
+        "hash": {
+          "music": "85163f56",
+          "icon": "f57b7ff6"
+        }
+      }
+    }
+  ]
+}
