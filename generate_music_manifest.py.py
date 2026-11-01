@@ -36,7 +36,7 @@ SCAN_DIR = MUSICS_SUBDIR if MUSICS_SUBDIR.is_dir() else SCRIPT_DIR
 OUTPUT_PATH = SCRIPT_DIR / "index_file.json"
 
 SERVER = "mc.zgwl.eu.org"
-ROOT_PREFIX = "/musics/"
+ROOT_PREFIX = "/"
 FORMAT_VERSION = 1
 PLACEHOLDER = "####"          # 占位符；合并时视为"空"，不当已有值
 
