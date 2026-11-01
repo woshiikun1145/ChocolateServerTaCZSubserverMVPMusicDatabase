@@ -167,7 +167,7 @@
         "music": "hd.mp3",
         "icon": "icon.jpg",
         "hash": {
-          "music": "d2706d20",
+          "music": "c794885d",
           "icon": "a91d3e1c"
         }
       }
@@ -181,6 +181,58 @@
         "icon": "icon.jpg",
         "hash": {
           "music": "34cdbe91",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（AT）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd.",
+      "path": {
+        "root": "/phigros/original/at/",
+        "music": "at.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "fbc52031",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（EZ）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd.",
+      "path": {
+        "root": "/phigros/original/ez/",
+        "music": "ez.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "1201a468",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（HD）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd.",
+      "path": {
+        "root": "/phigros/original/hd/",
+        "music": "hd.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "1f7a0e2b",
+          "icon": "a91d3e1c"
+        }
+      }
+    },
+    {
+      "music_name": "Phigros 结算曲（IN）",
+      "author": "Xiamen Pigeon Games Network Co., Ltd.",
+      "path": {
+        "root": "/phigros/original/in/",
+        "music": "in.mp3",
+        "icon": "icon.jpg",
+        "hash": {
+          "music": "1819141c",
           "icon": "a91d3e1c"
         }
       }
