@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "updated_at": "2026-11-01",
+  "updated_at": "2026-11-06",
   "server": "mc.zgwl.eu.org",
   "musics": [
     {
@@ -30,6 +30,19 @@
       }
     },
     {
+      "music_name": "嚼玻璃",
+      "author": "James and the Cold Sun",
+      "path": {
+        "root": "/counter_strike/deluge/chewing_glass/",
+        "music": "chewing_glass.mp3",
+        "icon": "IMG_2544.JPG",
+        "hash": {
+          "music": "eefca6b3",
+          "icon": "81a82e93"
+        }
+      }
+    },
+    {
       "music_name": "常青",
       "author": "PVRIS",
       "path": {
@@ -43,6 +56,71 @@
       }
     },
     {
+      "music_name": "纵欲狂欢",
+      "author": "Selective Response",
+      "path": {
+        "root": "/counter_strike/deluge/no_love_only_pleasure/",
+        "music": "no_love_only_pleasure.mp3",
+        "icon": "IMG_2542.JPG",
+        "hash": {
+          "music": "6bbfc3d0",
+          "icon": "a9161649"
+        }
+      }
+    },
+    {
+      "music_name": "鼠疫",
+      "author": "HEALTH",
+      "path": {
+        "root": "/counter_strike/deluge/rat_wars/",
+        "music": "rat_wars.mp3",
+        "icon": "IMG_2545.JPG",
+        "hash": {
+          "music": "5c6f079e",
+          "icon": "9a56ed06"
+        }
+      }
+    },
+    {
+      "music_name": "EZ4ENCE",
+      "author": "The Verkkars",
+      "path": {
+        "root": "/counter_strike/ez4ence/",
+        "music": "ez4ence.mp3",
+        "icon": "IMG_2551.JPG",
+        "hash": {
+          "music": "42960cbb",
+          "icon": "ebddd2dc"
+        }
+      }
+    },
+    {
+      "music_name": "闪光舞",
+      "author": "The Verkkars & n0thing",
+      "path": {
+        "root": "/counter_strike/flashbang_dance/",
+        "music": "flashbang_dance.mp3",
+        "icon": "IMG_2555.JPG",
+        "hash": {
+          "music": "06dc15ef",
+          "icon": "e2c9fbfe"
+        }
+      }
+    },
+    {
+      "music_name": "工业忆夕",
+      "author": "Starjunk 95",
+      "path": {
+        "root": "/counter_strike/industrial_sunset_memories/",
+        "music": "Starjunk 95-Industrial Sunset Memories.mp3",
+        "icon": "IMG_2543.JPG",
+        "hash": {
+          "music": "397a4d1f",
+          "icon": "96c24296"
+        }
+      }
+    },
+    {
       "music_name": "冲击星*",
       "author": "Knock2",
       "path": {
@@ -52,6 +130,58 @@
         "hash": {
           "music": "32864b0d",
           "icon": "5ad3e07b"
+        }
+      }
+    },
+    {
+      "music_name": "追溯起源",
+      "author": "3kliksphilip",
+      "path": {
+        "root": "/counter_strike/initiators/heading_for_the_source/",
+        "music": "heading_for_the_source.mp3",
+        "icon": "IMG_2554.JPG",
+        "hash": {
+          "music": "7dd9a457",
+          "icon": "7442e305"
+        }
+      }
+    },
+    {
+      "music_name": "神枪手",
+      "author": "Juelz",
+      "path": {
+        "root": "/counter_strike/initiators/shooters/",
+        "music": "shooters.mp3",
+        "icon": "IMG_2553.JPG",
+        "hash": {
+          "music": "9182e5c5",
+          "icon": "15f2ce53"
+        }
+      }
+    },
+    {
+      "music_name": "咖啡！加非！磕肥！",
+      "author": "Dren McDonald",
+      "path": {
+        "root": "/counter_strike/masterminds2/coffee_kofe_kahveh/",
+        "music": "coffee_kofe_kahveh.mp3",
+        "icon": "cover.png",
+        "hash": {
+          "music": "45eca763",
+          "icon": "7b9c956c"
+        }
+      }
+    },
+    {
+      "music_name": "CSGO 精彩时刻",
+      "author": "Darude",
+      "path": {
+        "root": "/counter_strike/moments_csgo/",
+        "music": "moments_csgo.mp3",
+        "icon": "IMG_2546.JPG",
+        "hash": {
+          "music": "b73fe281",
+          "icon": "e799f913"
         }
       }
     },
@@ -95,6 +225,19 @@
       }
     },
     {
+      "music_name": "燥起来！",
+      "author": "Knock2",
+      "path": {
+        "root": "/counter_strike/night_mode/make_u_sweat/",
+        "music": "make_u_sweat.m4a",
+        "icon": "IMG_2541.JPG",
+        "hash": {
+          "music": "cf6f456d",
+          "icon": "fb0cc0a5"
+        }
+      }
+    },
+    {
       "music_name": "理由",
       "author": "Red Cat",
       "path": {
@@ -121,15 +264,158 @@
       }
     },
     {
+      "music_name": "GLA",
+      "author": "Twin Atlantic",
+      "path": {
+        "root": "/counter_strike/radicals/gla/",
+        "music": "gla.mp3",
+        "icon": "IMG_2552.JPG",
+        "hash": {
+          "music": "5624faa7",
+          "icon": "e472704d"
+        }
+      }
+    },
+    {
       "music_name": "有为青年",
       "author": "Blitz Kids",
       "path": {
-        "root": "/counter_strike/radicals/on_my_own/",
-        "music": "on_my_own.mp3",
+        "root": "/counter_strike/radicals/good_youth/",
+        "music": "good_youth.mp3",
         "icon": "IMG_2528.JPG",
         "hash": {
           "music": "894a1ed6",
           "icon": "2fbc2519"
+        }
+      }
+    },
+    {
+      "music_name": "人生何处不青山",
+      "author": "Neck Deep",
+      "path": {
+        "root": "/counter_strike/radicals/life_s_not_out_to_get_you/",
+        "music": "life_s_not_out_to_get_you.mp3",
+        "icon": "IMG_2550.JPG",
+        "hash": {
+          "music": "f9b727e4",
+          "icon": "47523dba"
+        }
+      }
+    },
+    {
+      "music_name": "躺平青年",
+      "author": "Neck Deep",
+      "path": {
+        "root": "/counter_strike/the_lowlife_pack/",
+        "music": "the_lowlife_pack.mp3",
+        "icon": "IMG_2549.JPG",
+        "hash": {
+          "music": "04d21d79",
+          "icon": "a66cf63a"
+        }
+      }
+    },
+    {
+      "music_name": "终极",
+      "author": "Denzel Curry",
+      "path": {
+        "root": "/counter_strike/ultimate/",
+        "music": "ultimate.mp3",
+        "icon": "cover.png",
+        "hash": {
+          "music": "f87a3ab2",
+          "icon": "63c2e886"
+        }
+      }
+    },
+    {
+      "music_name": "花脸",
+      "author": "完美世界",
+      "path": {
+        "root": "/counter_strike/花脸/",
+        "music": "花脸.mp3",
+        "icon": "IMG_2547.JPG",
+        "hash": {
+          "music": "6f5ed4c1",
+          "icon": "e3559e3a"
+        }
+      }
+    },
+    {
+      "music_name": "通宵达旦（冰冰冰版）",
+      "author": "KILL SCRIPT 和 任之音",
+      "path": {
+        "root": "/counter_strike_icex3_ver/night_mode/all_night/",
+        "music": "all_night.mp3",
+        "icon": "cover.JPG",
+        "hash": {
+          "music": "3dac7adf",
+          "icon": "cc88050d"
+        }
+      }
+    },
+    {
+      "music_name": "触摸能量（冰冰冰版）",
+      "author": "DRYDEN 和 任之音",
+      "path": {
+        "root": "/counter_strike_icex3_ver/night_mode/feel_the_power/",
+        "music": "feel_the_power.mp3",
+        "icon": "cover.JPG",
+        "hash": {
+          "music": "4b148366",
+          "icon": "f6ea6ef3"
+        }
+      }
+    },
+    {
+      "music_name": "非人类（冰冰冰版）",
+      "author": "ISOxo 和 任之音",
+      "path": {
+        "root": "/counter_strike_icex3_ver/night_mode/inhuman/",
+        "music": "inhuman.mp3",
+        "icon": "cover.JPG",
+        "hash": {
+          "music": "47c12147",
+          "icon": "8edadc77"
+        }
+      }
+    },
+    {
+      "music_name": "燥起来！（冰冰冰版）",
+      "author": "Knock2 和 任之音",
+      "path": {
+        "root": "/counter_strike_icex3_ver/night_mode/make_u_sweat/",
+        "music": "make_u_sweat.mp3",
+        "icon": "IMG_2541.JPG",
+        "hash": {
+          "music": "7ec12620",
+          "icon": "fb0cc0a5"
+        }
+      }
+    },
+    {
+      "music_name": "理由（冰冰冰版）",
+      "author": "Red Cat 和 任之音",
+      "path": {
+        "root": "/counter_strike_icex3_ver/night_mode/reason/",
+        "music": "reason.mp3",
+        "icon": "cover.JPG",
+        "hash": {
+          "music": "e8f5a9f1",
+          "icon": "7cac6302"
+        }
+      }
+    },
+    {
+      "music_name": "万众瞩目（冰冰冰版）",
+      "author": "TWERL 、 Ekko & Sidetrack 和 任之音",
+      "path": {
+        "root": "/counter_strike_icex3_ver/night_mode/under_bright_lights/",
+        "music": "under_bright_lights.mp3",
+        "icon": "cover.JPG",
+        "hash": {
+          "music": "cb560529",
+          "icon": "2947d16a"
         }
       }
     },
