@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "updated_at": "2026-11-06",
+  "updated_at": "2026-11-11",
   "server": "mc.zgwl.eu.org",
   "musics": [
     {
@@ -56,6 +56,32 @@
       }
     },
     {
+      "music_name": "无拘空间",
+      "author": "Juelz",
+      "path": {
+        "root": "/counter_strike/deluge/floorspace/",
+        "music": "floorspace.mp3",
+        "icon": "IMG_2625.JPG",
+        "hash": {
+          "music": "83da1287",
+          "icon": "af7df997"
+        }
+      }
+    },
+    {
+      "music_name": "迈克尔",
+      "author": "Killer Mike",
+      "path": {
+        "root": "/counter_strike/deluge/michael/",
+        "music": "michael.mp3",
+        "icon": "IMG_2624.JPG",
+        "hash": {
+          "music": "0f8b920e",
+          "icon": "1f0fef64"
+        }
+      }
+    },
+    {
       "music_name": "纵欲狂欢",
       "author": "Selective Response",
       "path": {
@@ -78,6 +104,19 @@
         "hash": {
           "music": "5c6f079e",
           "icon": "9a56ed06"
+        }
+      }
+    },
+    {
+      "music_name": "猩红密室",
+      "author": "Adam Beyer",
+      "path": {
+        "root": "/counter_strike/deluge/red_room/",
+        "music": "red_room.mp3",
+        "icon": "IMG_2626.JPG",
+        "hash": {
+          "music": "8cdbefea",
+          "icon": "b011c511"
         }
       }
     },
@@ -260,6 +299,58 @@
         "hash": {
           "music": "3fd4704d",
           "icon": "2947d16a"
+        }
+      }
+    },
+    {
+      "music_name": "吾心不移",
+      "author": "Altare",
+      "path": {
+        "root": "/counter_strike/night_mode2/change_my_mind/",
+        "music": "change_my_mind.mp3",
+        "icon": "IMG_2619.JPG",
+        "hash": {
+          "music": "35e4ea2a",
+          "icon": "0d92fa0f"
+        }
+      }
+    },
+    {
+      "music_name": "多巴胺冲击",
+      "author": "Alrt",
+      "path": {
+        "root": "/counter_strike/night_mode2/dopamine_hit/",
+        "music": "dopamine_hit.mp3",
+        "icon": "IMG_2623.JPG",
+        "hash": {
+          "music": "6be4a4f0",
+          "icon": "6045b825"
+        }
+      }
+    },
+    {
+      "music_name": "循环不息",
+      "author": "Repiet & Julia Kleijn",
+      "path": {
+        "root": "/counter_strike/night_mode2/on_and_on/",
+        "music": "on_and_on.mp3",
+        "icon": "IMG_2618.JPG",
+        "hash": {
+          "music": "867564f1",
+          "icon": "81c76fe7"
+        }
+      }
+    },
+    {
+      "music_name": "声流",
+      "author": "Shock One",
+      "path": {
+        "root": "/counter_strike/night_mode2/voices/",
+        "music": "voices.mp3",
+        "icon": "IMG_2622.JPG",
+        "hash": {
+          "music": "080d0838",
+          "icon": "3d161b2e"
         }
       }
     },
