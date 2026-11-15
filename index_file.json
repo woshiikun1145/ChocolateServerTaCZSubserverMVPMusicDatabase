@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-15",
   "server": "mc.zgwl.eu.org",
   "musics": [
     {
@@ -637,6 +637,19 @@
         "hash": {
           "music": "904b2716",
           "icon": "fc851cc9"
+        }
+      }
+    },
+    {
+      "music_name": "流光似箭",
+      "author": "无畏契约、Grabbitz 和 bbno$",
+      "path": {
+        "root": "/valorant/ticking_away/",
+        "music": "ticking_away.mp3",
+        "icon": "IMG_2711.JPG",
+        "hash": {
+          "music": "5c59b6dc",
+          "icon": "ce88da10"
         }
       }
     },
