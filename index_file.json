@@ -1,21 +1,8 @@
 {
   "format_version": 1,
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-20",
   "server": "mc.zgwl.eu.org",
   "musics": [
-    {
-      "music_name": "樱花糖",
-      "author": "Launk",
-      "path": {
-        "root": "/cherry_candy/",
-        "music": "cherry_candy.mp3",
-        "icon": "icon.JPG",
-        "hash": {
-          "music": "2d6d0c1f",
-          "icon": "b3e5c49a"
-        }
-      }
-    },
     {
       "music_name": "Counter-Strike 2",
       "author": "Valve Studio Orchestra",
@@ -221,6 +208,32 @@
         "hash": {
           "music": "b73fe281",
           "icon": "e799f913"
+        }
+      }
+    },
+    {
+      "music_name": "罪犯",
+      "author": "F.O.O.L",
+      "path": {
+        "root": "/counter_strike/monstercat/criminals/",
+        "music": "criminals.mp3",
+        "icon": "IMG_2718.JPG",
+        "hash": {
+          "music": "82ea3b2e",
+          "icon": "fb83d71f"
+        }
+      }
+    },
+    {
+      "music_name": "内华达",
+      "author": "Vicetone",
+      "path": {
+        "root": "/counter_strike/monstercat/nevada/",
+        "music": "nevada.mp3",
+        "icon": "IMG_2717.JPG",
+        "hash": {
+          "music": "aaa278a9",
+          "icon": "76313f57"
         }
       }
     },
@@ -507,6 +520,19 @@
         "hash": {
           "music": "cb560529",
           "icon": "2947d16a"
+        }
+      }
+    },
+    {
+      "music_name": "以我之名",
+      "author": "英雄联盟",
+      "path": {
+        "root": "/league_of_legends/know_my_name/",
+        "music": "know_my_name.mp3",
+        "icon": "",
+        "hash": {
+          "music": "cc28d0ed",
+          "icon": ""
         }
       }
     },
